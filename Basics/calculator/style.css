@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.box{
+    border: 2px solid black;
+    display: flex;
+    background-color: rgb(226, 208, 77);
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    height: 65px;
+    width: 65px;
+}
+.div-btn {
+    margin: 5px;
+}
+.equal {
+    width: 134px;
+}
+.txt{
+    height: 70px;
+    width: 269px;
+    font-size: 2.5rem;
+}
+.btn-txt{
+    padding: 5px;
+}
